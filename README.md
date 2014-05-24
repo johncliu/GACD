@@ -3,8 +3,11 @@
 This is my course project submission for the Getting and Cleaning Data (003) Course on Coursera. Within this repo are several files:
 
 run_analysis.R       R script that converts the Samsung raw data to a tidy dataset
+
 CodeBook.md          file describing the variables, data, and transformations used to create the tidy dataset
+
 README.md            this file
+
 tidydata.txt         the resulting tidy dataset
 
 ### Operation
